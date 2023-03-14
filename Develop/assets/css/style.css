@@ -99,7 +99,7 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/*
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -111,6 +111,12 @@ p {
 }
 
 .benefit-cost h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+*/
+
+.benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
