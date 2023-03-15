@@ -1,4 +1,4 @@
-# Horiseon search engine optimization
+# Horiseon search engine optimization network 
 
 ## Objective
 Given the starter code for this assignment, I attempted to complete the following requirements: 
