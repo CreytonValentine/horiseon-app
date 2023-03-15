@@ -1,4 +1,4 @@
-# Code Refactor Starter Code
+# Horiseon search engine optimization
 
 ## Objective
 Given the starter code for this assignment, I attempted to complete the following requirements: 
